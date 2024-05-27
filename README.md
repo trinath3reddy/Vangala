@@ -1,3 +1,3 @@
 # Vangala
-GitPractice
+GitPractice<br>
 This is my second Project
